@@ -7,21 +7,9 @@ export const metadata: Metadata = {
   description: 'Fitness Emporium in Gulshan-e-Iqbal, Karachi. Explore gym, cardio, group training, ladies fitness, female yoga and personal training options.',
   generator: 'v0.app',
   icons: {
-    icon: [
-      {
-        url: '/icon-light-32x32.png',
-        media: '(prefers-color-scheme: light)',
-      },
-      {
-        url: '/icon-dark-32x32.png',
-        media: '(prefers-color-scheme: dark)',
-      },
-      {
-        url: '/icon.svg',
-        type: 'image/svg+xml',
-      },
-    ],
-    apple: '/apple-icon.png',
+    icon: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-rNCIUwUKggdyzCivm2nEbADW4F3NT6.png',
+    shortcut: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-rNCIUwUKggdyzCivm2nEbADW4F3NT6.png',
+    apple: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-rNCIUwUKggdyzCivm2nEbADW4F3NT6.png',
   },
 }
 
